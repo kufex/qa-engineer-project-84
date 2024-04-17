@@ -19,18 +19,18 @@
     Просмотр содержимого корзины
   status: pass
 
-  - summary: |
+- summary: |
     Просмотр подробной информации о товаре
   status: pass
 
-  - summary: |
+- summary: |
     Проверка возможности искать товары по ключевому слову 
   status: pass 
 
-  - summary: |
+- summary: |
     Проверка возможности удалить товар из корзины
   status: pass
 
-  - summary: |
+- summary: |
     Проверка возможности оформления заказа
   status: fail
